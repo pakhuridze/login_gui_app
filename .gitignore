@@ -1,0 +1,38 @@
+# Python Bytecode Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Environment
+.env
+venv/
+*.egg-info/
+
+# PyQt5 UI Files (Generated Files)
+*.pyc
+*.pyo
+*.pyd
+
+# Qt Designer Temporary Files
+*.ui~
+*.qrc~
+*.pro~
+*.pri~
+*.suo
+*.user
+*.userprefs
+
+# IDE and Editor Configurations
+.vscode/
+.idea/
+*.swp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Backup Files
+*.bak
+*.tmp
